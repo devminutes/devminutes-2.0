@@ -1,0 +1,21 @@
+dm-id:          6
+dm-name:        Miroslav Bajtoš a vývoj Node.js
+dm-date:        1. 6. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+
+dm-resources: 
+dm-resource:  Miroslav Bajtoš
+Twitter||https://twitter.com/bajtos 
+LinkedIn||http://cz.linkedin.com/in/bajtos
+Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+
+dm-resource:  Node.js
+StrongLoop||http://strongloop.com/
+node.js||http://nodejs.org/
+NerdDinner HK||http://srazy.info/nerddinner-hk/
+
+dm-description: 
+Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
+Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.
+Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz.

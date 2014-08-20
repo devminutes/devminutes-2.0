@@ -1,0 +1,35 @@
+dm-id:          16
+dm-name:        Marcel Hlopko o virtuálním stroji a optimalizaci kódu
+dm-date:        17. 6. 2014
+dm-mp3:         http://feeds.soundcloud.com/stream/154738021-devminutes-16-marcel-hlopko.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/16-marcel-hlopko
+
+dm-resources: 
+dm-resource:  Marcel Hlopko
+About||http://about.hlopko.com/ 
+LinkedIn||https://cz.linkedin.com/in/marcelhlopko
+Twitter||https://twitter.com/marcelhlopko
+GitHub||https://github.com/mhlopko
+Kayak||http://vimeo.com/hlopik
+
+dm-resource:  Doktorské studium
+Poznej svůj runtime systém - DevFest Praha 2013||https://www.youtube.com/watch?v=d2XcO8LQe_s
+Smalltalk/X||http://www.exept.de/en/products/smalltalkx
+STX:LIBJAVA||https://swing.fit.cvut.cz/projects/stx-libjava/
+
+dm-resource:  Events
+Coding Dojo||http://srazy.info/coderetreat/terminy/
+Devel||http://devel.cz/konference
+GUG||http://www.gug.cz/
+
+dm-resource:  Virtuální stroje / Optimalizace
+Inline caching||https://en.wikipedia.org/wiki/Inline_caching
+Foreign function interface||https://en.wikipedia.org/wiki/Foreign_function_interface
+The Transformation Priority Premise||http://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
+dm-description: 
+Naším dalším hostem se stal Marcel Hlopko, který působí jako doktorand na Fakultě Informačních technologiíí ČVUT, kde se zabývá jazykovou interoperabilitou. To nás zavedlo do tajů Java Virtual Machine, jak funguje heap, garbage collector nebo k optimalizaci kódu. Marcel nám mimo jiné představil i práci, na které aktuálně pracuje v rámci PhD studia - virtuální stroj. 
+
+Jak už to tak bývá - i tentokrát jsem se nevěnovali pouze dev tématům. Marcel velmi rád jezdí na kajaku. Nás to velmi zaujalo a proto jsme Marcela vyzpovídali a zjistili, jak a kde můžeme začít svou první jízdu nebo kde hledat nejlepší řeky pro kajak.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 

@@ -1,0 +1,35 @@
+dm-id:          12
+dm-name:        Tomáš Slavíček o vývoji pro Windows Phone
+dm-date:        8. 4. 2014
+dm-mp3:         http://feeds.soundcloud.com/stream/143666129-devminutes-12-tomas-slavicek.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/12-tomas-slavicek
+
+dm-resources: 
+dm-resource: Tomáš Slavíček
+LinkedIn||http://cz.linkedin.com/in/tomasslavicek
+Twitter||https://twitter.com/tomasslavicek
+Blog||http://www.dotnetportal.cz/blogy/8/Tomas-Slavicek
+Barcelona a MWC 2014||http://mwc2014.tumblr.com
+
+dm-resource: Events
+mDevCamp||http://mdevcamp.cz/
+Mobile World Congress||http://www.mobileworldcongress.com/
+Build 2014||http://channel9.msdn.com/events/build/2014?wt.mc_id=build_hp
+
+dm-resource: Windows Phone
+Windows Phone Dev Center||http://dev.windowsphone.com/en-us
+Xamarin||http://xamarin.com/
+MonoGame||http://www.monogame.net/
+HexaLines||http://hexalines.com/
+Easy Phone launcher||http://phonelauncher.com/
+
+dm-resource: Android
+Android Ported to C# ||http://blog.xamarin.com/android-in-c-sharp/
+Cometh The Hour, Cometh The Xobot||http://techcrunch.com/2012/05/05/cometh-the-xobot
+
+dm-description: 
+Dvanáctý díl byl pojat v duchu vývoje mobilních aplikací. Naše pozvání přijal Tomáš Slovíček, se kterým jsme si povídali zejména o aktuální situaci na poli vývoje na platformě Windows Phone. Rozebrali jsme si dostupné prostředky, které nám umožní vývoj a také jsme lehce zabrousili do vývoje her. Mimo jiné jsme naťukli i téma, jak psát aplikace pro více mobilních platforem v jazyce C#. 
+
+Tomáš nám také povyprávěl, jaká byla konference Mobile World Congress a co zajímavého tam bylo představeno. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/).

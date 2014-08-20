@@ -1,0 +1,39 @@
+dm-id:          14
+dm-name:        Michal Špaček o PHP a bezpečnosti na internetu
+dm-date:        12. 5. 2014
+dm-mp3:         http://feeds.soundcloud.com/stream/149120783-devminutes-14-michal-spacek.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/14-michal-spacek
+
+dm-resources: 
+dm-resource:  Michal Špaček
+Web||http://www.michalspacek.cz/
+LinkedIn||https://www.linkedin.com/in/spaze
+Twitter||https://twitter.com/spazef0rze
+Facebook||https://www.facebook.com/spaze
+
+dm-resource:  Bezpečnost
+WebTop100||http://www.webtop100.cz/
+OWASP Top 10||https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+Top 10 Web Hacking Techniques 2013||https://blog.whitehatsec.com/top-10-web-hacking-techniques-2013/
+Útok postranním kanálem||https://cs.wikipedia.org/wiki/%C3%9Atok_postrann%C3%ADm_kan%C3%A1lem
+The Heartbleed Bug||http://heartbleed.com/
+LibreSSL||http://www.libressl.org/
+Heartbleed Bug in the Czech Republic||http://heartbleed.michalspacek.cz/
+
+dm-resource:  Události
+Y Soft: Technology Hour Prague||http://www.meetup.com/ysoft-th
+Coding Dojo||http://srazy.info/coderetreat/
+BigData with BigQuery||http://www.gug.cz/cs/akce/bigdata-with-bigquery/terminy/1
+
+dm-resource:  PHP
+Zend||http://www.zend.com/
+HHVM||http://hhvm.com/
+Hack||http://hacklang.org/
+Nette||http://nette.org/cs/
+
+dm-description: 
+Do čtrnáctého dílu si s námi přišel popovídat Michal Špaček. Prvním tématem byla platforma PHP. Michal nám řekl jaký je aktuální stav ve světě PHP a jak žije kominuta. Mimo jiné jsme rozebírali možnosti PHP ve vetších aplikacích nebo přínosy webových Frameworků. Po PHP přišel na řadu jazyk HACK, který nedávno představila firma Facebook jako náhradu právě za PHP. Michal nás zasvětil do toho, jaké jsou hlavní rozdíly a jak vlastně celý životní cyklus okolo HACK funguje a jestli má ten jazyk vůbec smysl používat. 
+
+V druhé části jsme nakousli téma webové bezpečnosti. Nejčastější typy útoků a jak se proti nim můžeme bránit. Nějaké základní best practice okolo tvorby a uchovávání hesel. Podívali jsme se i na problém heartbleed, který byl nedávno odhalen.  
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme [Node5](http://www.node5.cz/). 

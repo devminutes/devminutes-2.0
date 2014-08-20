@@ -1,0 +1,68 @@
+dm-id:          8
+dm-name:        Petr Šimeček o BigData a cloudových službách
+dm-date:        17. 12. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/125248716-devminutes-8-petr-simecek.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/8-petr-simecek
+
+dm-resources: 
+dm-resource:  Petr Šimeček
+LinkedIn||https://cz.linkedin.com/in/petrsimecek
+Twitter||https://twitter.com/PetrSimecek
+Facebook||https://www.facebook.com/petr.simecek.376
+Blog||http://padak.keboola.com/
+
+dm-resource:  Keboola
+Keboola||http://www.keboola.com/
+The Official Keboola Blog||http://blog.keboola.com/
+Co dělá Keboola - verze pro mojí mámu||http://padak.keboola.com/co-dela-keboola-verze-pro-moji-mamu
+GoodData||http://www.gooddata.com/
+Roman Staněk: Start-up as a Service||http://www.youtube.com/watch?v=O2IBQiHfTsI
+Fast-moving consumer goods||http://en.wikipedia.org/wiki/Fast-moving_consumer_goods
+Jak GoodData a Keboola mění můj život||http://tomcupr.cz/post/40834805363/jak-gooddata-a-keboola-meni-muj-zivot
+Five Years From Now, CMOs Will Spend More on IT Than CIOs Do||http://www.forbes.com/sites/lisaarthur/2012/02/08/five-years-from-now-cmos-will-spend-more-on-it-than-cios-do/
+
+dm-resource:  Cloud
+Cloud - vyhazujeme peníze oknem?||http://padak.keboola.com/cloud-vyhazujeme-penize-oknem
+Cloud - nejvíc nebezpečná věc pro české firmy!!||http://padak.keboola.com/cloud-nejvic-nebezpecna-vec-pro-ceske-firmy
+
+dm-resource:  Hadoop/BigData
+Apache Hadoop||http://hadoop.apache.org/
+MapReduce||http://en.wikipedia.org/wiki/MapReduce
+Don't use Hadoop - your data isn't that big||http://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
+Máš BigData? Uka!||http://padak.keboola.com/bigdata-kde
+Big data is like teenage sex||http://31.media.tumblr.com/3d9c3a41124a68b7a542090fde1134af/tumblr_mvn4ox9TBF1soccv6o1_1280.jpg
+Redshift Performance & Cost||http://nerds.airbnb.com/redshift-performance-cost/
+MySQL vs HP Vertica vs AWS Redshift vs Google BigQuery||http://padak.keboola.com/mysql-vs-hp-vertica-vs-aws-redshift-vs-google-bigquery
+When in doubt: UPS avoids left turns||http://compass.ups.com/UPS-driver-avoid-left-turns/
+Nobody ever got fired for using Hadoop on a cluster||http://research.microsoft.com/pubs/163083/hotcbp12%20final.pdf
+Seznam Opens Part of Its Full Text Search Technology for StartupYard 2014||http://startupyard.com/seznam-opens-part-of-its-full-text-search-technology-for-startupyard-2014/
+When in doubt: UPS avoids left turns||http://compass.ups.com/UPS-driver-avoid-left-turns/
+
+dm-resource:  Events
+14. 12. (sobota) - Praha, Vsetín, Ostrava||http://coderetreat.cz/
+18. 12. (středa) - Praha - CZJUG||http://java.cz/detail.do?articleId=2252
+18. 12. (středa) - Praha - JetBrains Tools for .NET Developers||http://info.jetbrains.com/Prague_Event18122013.html
+
+dm-resource:  Technologie/Služby
+The R Project for Statistical Computing||http://www.r-project.org/
+SPSS software||http://www-01.ibm.com/software/analytics/spss
+Elasticsearch||http://www.elasticsearch.org/
+Amazon Redshift||http://aws.amazon.com/redshift/
+Amazon Simple Storage Service (Amazon S3)||http://aws.amazon.com/s3/
+Amazon Glacier||http://aws.amazon.com/glacier/
+loggly||http://www.loggly.com/ 
+papertrail||https://papertrailapp.com/
+PagerDuty||http://www.pagerduty.com/
+apiary||http://apiary.io/
+Google BigQuery||https://developers.google.com/bigquery/
+Amazon Relational Database Service (Amazon RDS)||http://aws.amazon.com/rds/
+rackspace||http://www.rackspace.com/
+Windows Azure||http://www.windowsazure.com/
+Amazon Elastic MapReduce (Amazon EMR)||http://aws.amazon.com/elasticmapreduce
+
+dm-description: 
+Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. 
+
+Podívali jsme se i na různé cloudové služby a jejich použití v praxi. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Keboola](http://www.keboola.com/). 

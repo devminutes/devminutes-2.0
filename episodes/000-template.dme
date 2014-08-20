@@ -1,0 +1,15 @@
+dm-id:          0
+dm-name:        Episode name
+dm-date:        1. 1. 2014
+dm-mp3:         http://feeds.soundcloud.com/stream/...mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/1-episode-name
+
+dm-resources: 
+dm-resource:  Resource name
+Twitter||https://twitter.com/devminutes 
+
+dm-resource:  Other resource
+Twitter||https://twitter.com/devminutes 
+
+dm-description: 
+Some text ...

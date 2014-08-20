@@ -1,0 +1,45 @@
+dm-id:          10
+dm-name:        Michal Bachman o grafových databázích, neo4j, studiu a životě v zahraničí
+dm-date:        21. 1. 2014
+dm-mp3:         http://feeds.soundcloud.com/stream/130598598-devminutes-10-michal-bachman.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/10-michal-bachman
+
+dm-resources: 
+dm-resource:  Michal Bachman
+LinkedIn||https://uk.linkedin.com/in/bachmanm
+Twitter||https://twitter.com/Bachmanm
+GraphAware||http://graphaware.com/
+GitHub||https://github.com/graphaware
+OpenCredo||http://www.opencredo.com/
+Imperial College London||http://www3.imperial.ac.uk/
+
+dm-resource:  Ostatní
+Why Netflix walked away from personalization||http://www.thoughtgadgets.com/why-netflix-walked-away-from-personalization/
+Coursera||https://www.coursera.org/
+
+dm-resource:  Grafové databáze
+Towards OLAP in Graph Databases (MSc. Thesis)||http://graphaware.com/neo4j/analytics/2013/10/02/bachman-msc-thesis.html
+WebExpo 2012 - Úvod do grafové databáze neo4j||http://webexpo.cz/praha2012/prednaska/uvod-do-grafove-databaze-neo4j/
+WebExpo 2013 - (Big) Data Science||http://webexpo.net/prague2013/talk/big-data-science/
+Neo4j Meetup Prague||http://graphaware.com/neo4j/2013/10/26/neo4j-meetup-prague.html
+Graph database||http://en.wikipedia.org/wiki/Graph_database
+neo4j||http://www.neo4j.org
+Learn Cypher - the Neo4j query language||http://www.neo4j.org/learn/cypher
+
+dm-resource:  Michal Bachman
+Dijkstra's algorithm||http://en.wikipedia.org/wiki/Dijkstra's_algorithm
+A* search algorithm||http://en.wikipedia.org/wiki/A*_search_algorithm
+A visualization of all the Hype Cycle data||http://blogs.gartner.com/hypecyclebook/2013/01/26/a-visualization-of-all-the-hype-cycle-data/
+Glassdoor Expands Social Platform With Neo4j||http://www.neotechnology.com/glassdoor-expands-social-platform-with-neo4j
+TITAN - Distributed Graph Database||http://thinkaurelius.github.io/titan/
+Spring Data Neo4J||http://projects.spring.io/spring-data-neo4j
+neo4j-framework||https://github.com/graphaware/neo4j-framework
+
+dm-description: 
+Do desátého dílu přijal naše pozvání Michal Bachman, který je přeborníkem v oblasti grafových databází. A právě grafové databáze byli hlavním tématem tohoto dílu. Michal nám popsal možnosti a krásu použití databází. Také použití a kde všude grafové databáze najdou své uplatnění. Byla nám také odtajněna i technickou část a Michal povídal o spousty možnostech, jak se na vývoji grafových databází dál podílet.  
+
+Dále jsme si povídali o studiu a životě v zahraničí. Jaké tam jsou školy a jak je té s náročností. Jestli to má vůbec smysl a na spousty dalších otázek nám Michal prozradil odpověď. 
+
+Pakliže vás povídaní Michala Bachmana zaujalo a rádi byste nim navázali spolupráci, pak se neváhejte ozvat na jeho [email](mailto:info@graphaware.com). 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
