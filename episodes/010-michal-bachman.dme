@@ -27,7 +27,7 @@ neo4j||http://www.neo4j.org
 Learn Cypher - the Neo4j query language||http://www.neo4j.org/learn/cypher
 
 dm-resource:  Michal Bachman
-Dijkstra's algorithm||http://en.wikipedia.org/wiki/Dijkstra's_algorithm
+Dijkstra algorithm||http://en.wikipedia.org/wiki/Dijkstras_algorithm
 A* search algorithm||http://en.wikipedia.org/wiki/A*_search_algorithm
 A visualization of all the Hype Cycle data||http://blogs.gartner.com/hypecyclebook/2013/01/26/a-visualization-of-all-the-hype-cycle-data/
 Glassdoor Expands Social Platform With Neo4j||http://www.neotechnology.com/glassdoor-expands-social-platform-with-neo4j
