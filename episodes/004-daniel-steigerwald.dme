@@ -1,21 +1,55 @@
 dm-id:          4
-dm-name:        Miroslav Bajtoš a vývoj Node.js
-dm-date:        1. 6. 2013
-dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
-dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+dm-name:        Daniel Steigerwald o práci v USA, JavaScriptu a Closure Tools
+dm-date:        25. 10. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/117044371-devminutes-4-daniel-steigerwald.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/4-daniel-steigerwald
 
 dm-resources: 
-dm-resource:  Miroslav Bajtoš
-Twitter||https://twitter.com/bajtos 
-LinkedIn||http://cz.linkedin.com/in/bajtos
-Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+dm-resource:  Daniel Steigerwald
+Daniel Steigerwald||http://daniel.steigerwald.cz/
+Twitter||https://twitter.com/steida
+Github||https://github.com/Steida
+LinkedIn||http://www.linkedin.com/in/steigerwalddaniel
 
-dm-resource:  Node.js
-StrongLoop||http://strongloop.com/
-node.js||http://nodejs.org/
-NerdDinner HK||http://srazy.info/nerddinner-hk/
+dm-resource:  Plánované akce
+PragueJS||http://www.praguejs.cz/
+DevFest Praha 2013||http://www.devfest.cz/
+
+dm-resource:  Shownotes
+airbnb||https://www.airbnb.com/
+Google Developers||https://developers.google.com/experts/
+Closure Library||https://developers.google.com/closure/library
+AngularJS||http://angularjs.org/
+Ember.js||http://emberjs.com/
+Bus factor||http://en.wikipedia.org/wiki/Bus_factor
+Backend as a service||http://en.wikipedia.org/wiki/BaaS
+PhoneGap||http://phonegap.com/
+YUI library||http://yuilibrary.com/
+React||http://facebook.github.io/react/
+Este||https://github.com/steida/este
+PhantomJS||http://phantomjs.org/
+Leaked internal google dart email||https://gist.github.com/paulmillr/1208618
+Closure: The Definitive Guide||http://www.amazon.com/Closure-Definitive-Guide-Michael-Bolin/dp/B00CVDS7RW
+
+dm-resource:  Shownotes
+CoffeeScript||http://coffeescript.org/
+Semantic UI||http://semantic-ui.com/
+Sublime Text||http://www.sublimetext.com
+WebStorm||http://www.jetbrains.com/webstorm/
+Cloud9 IDE||https://c9.io/
+Esprima||http://esprima.org
+TypeScript||http://www.typescriptlang.org
+Todo MVC||http://todomvc.com/
+Dart||https://www.dartlang.org/
+ECMAScript||http://en.wikipedia.org/wiki/ECMAScript
+Reality is an illusion – .NET OSS is hard||http://blog.markrendle.net/2013/09/26/reality-is-an-illusion-net-oss-is-hard
+Grunt||http://gruntjs.com/
+Bower||http://bower.io/
+Bootstrap||http://getbootstrap.com/
 
 dm-description: 
-Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
-Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.
-Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz.
+V pořadí čtvrtým hostem je Daniel Steigerwald. Dan je známý zejména ve světě frontend Javascriptu. Rozebrali jsme současnou situaci Javascriptu a mimo jiného jsme si povídali například o Google Closure Tools, Gruntu, Dartu, Typescriptu a dalších. 
+
+Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu. 
+
+Za poskytnutí prostor pro natáčení čtvrtého dílu opět děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
