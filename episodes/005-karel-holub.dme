@@ -1,21 +1,49 @@
 dm-id:          5
-dm-name:        Miroslav Bajtoš a vývoj Node.js
-dm-date:        1. 6. 2013
-dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
-dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+dm-name:        Karel Holub o běhání
+dm-date:        29. 10. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/117597424-devminutes-5-karel-holub.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/5-karel-holub
 
 dm-resources: 
-dm-resource:  Miroslav Bajtoš
-Twitter||https://twitter.com/bajtos 
-LinkedIn||http://cz.linkedin.com/in/bajtos
-Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+dm-resource:  Karel Holub
+Blog||http://www.karelholub.net/#!blog/ckkg
+Twitter||https://twitter.com/karh79
+LinkedIn||http://www.linkedin.com/in/holubkarel
 
-dm-resource:  Node.js
-StrongLoop||http://strongloop.com/
-node.js||http://nodejs.org/
-NerdDinner HK||http://srazy.info/nerddinner-hk/
+dm-resource:  Plánované akce
+PragueJS||http://www.praguejs.cz/
+DevFest Praha 2013||http://www.devfest.cz/
+
+dm-resource:  Knížky
+Closure: The Definitive Guide||http://www.amazon.com/Closure-Definitive-Guide-Michael-Bolin/dp/B00CVDS7RW
+
+dm-resource:  Běhání
+Scott Jurek||http://en.wikipedia.org/wiki/Scott_Jurek
+Behej.com||http://www.behej.com/
+Runners world||http://www.runnersworld.com
+RunGo.cz||http://rungo.idnes.cz/
+Běžecká škola||http://www.bezeckaskola.cz/
+How Far Did Rocky Go in His Training Run in Rocky II?||http://www.phillymag.com/news/2013/09/18/rocky-training-run-rocky-ii/
+Runnig calculator||http://www.mcmillanrunning.com/calculator
+Born to Run||http://www.amazon.com/Born-to-Run-ebook/dp/B004CFBMRY/ref=sr_1_1?ie=UTF8&qid=1382355404&sr=8-1&keywords=born+to+run
+Zrozeni k běhu||http://www.kosmas.cz/knihy/159930/born-to-run-zrozeni-k-behu
+Eat and Run: My Unlikely Journey to Ultramarathon Greatness||http://www.amazon.com/Eat-Run-Ultramarathon-Greatness-ebook/dp/B008BTC5E6/ref=sr_1_1?ie=UTF8&qid=1382359886&sr=8-1&keywords=eat+and+run
+Jez a běhej||http://www.kosmas.cz/knihy/182359/jez-a-behej
+Running With the Kenyans: Discovering the secrets of the fastest people on earth||http://www.amazon.com/Running-Kenyans-Discovering-secrets-ebook/dp/B0077ROL40/ref=sr_1_1?ie=UTF8&qid=1382355434&sr=8-1&keywords=running+with+kenyans
+Běhání s Keňany||http://www.kosmas.cz/knihy/174039/behani-s-kenany
+
+dm-resource:  Videa
+Tony Krupicka - Training Philosophy||http://youtu.be/7Ve_wszkSD0
+Pete Jacobs running drills 2013||http://youtu.be/b6Cp8Jxfg4Q
+Pete Jacobs running technique 2013||http://youtu.be/JucHwHW3LQ8
+Craig Crowie Alexanders core workout||http://youtu.be/4aNq5v695T0
+The Runner In Winter - Anton Krupicka||http://www.youtube.com/watch?v=kjDLorXfkao
+Chris McCormack: Accordion tempo run workout||http://www.kinetic-revolution.com/chris-mccormack-accordion-tempo-run-workout/
+Videopovídání 10# s Josefem Nevoralem od neběžce k maratonci||https://vimeo.com/50399218
 
 dm-description: 
-Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
-Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.
-Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz.
+Nejen prací živ je programátor, ale je potřeba se i hýbat. Jelikož nejméně náročným sportem je běh, proto je první volbou spousty lidí. Což byl důvod, že jsme si jako hosta pozvali právě Karla, který běhá a běhá hodně.
+
+Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.
+
+Za poskytnutí prostor pro natáčení děkujeme hradecké pobočce společnosti [Vendavo CZ](http://www.vendavo.cz/). 
