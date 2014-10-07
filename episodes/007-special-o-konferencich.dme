@@ -1,21 +1,68 @@
 dm-id:          7
-dm-name:        Miroslav Bajtoš a vývoj Node.js
-dm-date:        1. 6. 2013
-dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
-dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+dm-name:        Speciální díl o konferencích a DevFestu
+dm-date:        3. 12. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/123016269-devminutes-7-special-konference.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/7-special-konference
 
 dm-resources: 
-dm-resource:  Miroslav Bajtoš
-Twitter||https://twitter.com/bajtos 
-LinkedIn||http://cz.linkedin.com/in/bajtos
-Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+dm-resource:  DevFest a GUG.cz
+DevFest Praha||http://devfest.cz/
+DevFest Pardubice||http://pardubice.devfest.cz/
+GUG.cz||http://www.gug.cz/
 
-dm-resource:  Node.js
-StrongLoop||http://strongloop.com/
-node.js||http://nodejs.org/
-NerdDinner HK||http://srazy.info/nerddinner-hk/
+dm-resource:  Gadgeds
+Oculus VR||http://www.oculusvr.com/
+The Best and Funniest Oculus Rift Reactions||http://www.youtube.com/watch?v=INDKNA7kXoo
+NVidia Shield||http://shield.nvidia.com/
+
+dm-resource:  30 let osobních počítačů
+30 let osobních počítačů v Československu||http://www.30letpc.cz/cs/
+PMD-85: Jak to začalo, proběhlo a nakonec skončilo||http://www.youtube.com/watch?v=LitYDyvJwjM
+
+dm-resource:  TEDx
+TED.com||http://www.ted.com/
+TEDx Hradec Králové||http://tedxhradeckralove.cz/2013/
+TEDx Prague||http://www.tedxprague.cz/
+
+dm-resource:  Javascript Frameworks Conference 2013
+Praha||https://www.geekcore.cz/events/3634
+Ostrava||https://www.geekcore.cz/events/3682/
+Umět jen programovat nestačí||https://www.geekcore.cz/events/4698
+
+dm-resource:  WebExpo
+WebExpo||http://webexpo.net
+MichTech Blog||http://blog.mictech.cz/blog/2013/09/27/webexpo-2013/
+CZPodcast 66 - WebExpo||http://java.cz/article/czpodcast-66-webexpo
+
+dm-resource:  MicroConf
+MicroConf||http://www.microconf.com/europe/
+Startups for the rest of us||http://www.startupsfortherestofus.com/
+The Micropreneur Academy||http://www.micropreneur.com/
+Start small, Stay small||http://www.startupbook.net/
+MicroConf Europe 2013 – Hub Page||http://www.it-engelhardt.de/microconf-europe-2013-hub-page
+
+dm-resource:  H1 - Jak na eventy, konference a večírky?
+Poslední středa||http://www.h1.cz/posledni-streda
+28 rozhovorů na téma ideální konference + výstup v PDF||http://blog.faborsky.cz/28-rozhovoru-na-tema-idealni-konference-vystup-v-pdf/
+
+dm-resource:  Konference v UK
+Strata Conf||http://strataconf.com/strataeu2013/
+European Simulation and Modelling Conference||http://www.eurosis.org/cms/?q=node/1874
+
+dm-resource:  Ostatní
+CZJUG||http://java.cz/detail.do?articleId=2252
+GUG.cz||http://www.gug.cz/cs
+jOpenSpace||http://www.jopenspace.cz
+
+dm-resource:  Plánované akce
+07. 12. (sobota) - Pardubice - CodeRetreat||http://www.gug.cz/cs/akce/code-retreat-pardubice-20/terminy/1
+14. 12. (sobota) - Praha, Vsetín, Ostrava||http://coderetreat.cz/
+06. 12. (pondělí) - Praha - CZJUG||http://java.cz/detail.do?articleId=2252
+18. 12. (středa) - Praha - JetBrains Tools for .NET Developers||http://info.jetbrains.com/Prague_Event18122013.html
 
 dm-description: 
-Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
-Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.
-Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz.
+Sedmý díl jsme pojali trošku neobvykle. V roce 2013 se odehrálo mnoho IT konrencí a různých setkáních. Na mnoha z nich jsme byli a v tomto díle jsme se pokusili některé vybrané rozebrat a blíže přiblížit. Můžete tak získat zajímavé tipy, na co se vyplatí chodit :)  
+
+Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
