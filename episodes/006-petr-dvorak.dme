@@ -1,21 +1,47 @@
 dm-id:          6
-dm-name:        Miroslav Bajtoš a vývoj Node.js
-dm-date:        1. 6. 2013
-dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
-dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+dm-name:        Petr Dvořák o bezpečnosti mobilních aplikací
+dm-date:        26. 11. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/122288474-devminutes-6-petr-dvorak.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/6-petr-dvorak
 
 dm-resources: 
-dm-resource:  Miroslav Bajtoš
-Twitter||https://twitter.com/bajtos 
-LinkedIn||http://cz.linkedin.com/in/bajtos
-Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+dm-resource:  Petr Dvořák
+Twitter||https://twitter.com/joshis_tweets 
+LinkedIn||https://cz.linkedin.com/in/dvorakpetr 
 
-dm-resource:  Node.js
-StrongLoop||http://strongloop.com/
-node.js||http://nodejs.org/
-NerdDinner HK||http://srazy.info/nerddinner-hk/
+dm-resource:  Shownotes
+Inmite||http://www.inmite.eu/en/ 
+Internet of Things||http://en.wikipedia.org/wiki/Internet_of_Things/ 
+Mohou mobilní aplikace léčit?||http://www.inmite.eu/en/blog/20131121-vitule-medicinska-aplikace 
+Cleevio||http://www.cleevio.com/
+Taasky||http://taasky.com/ 
+Spendee||http://www.spendeeapp.com/ 
+SMS Ticket||http://www.inmite.eu/en/apps/sms-ticket 
+World First Working Prototype of Banking for Google Glass Talks to Fio Bank||http://www.inmite.eu/en/blog/20130624-banking-for-google-glass 
+
+dm-resource:  Multiplatformní vývoj
+Xamarin||http://xamarin.com/ 
+PhoneGap||http://phonegap.com/ 
+Titanium||http://www.appcelerator.com/titanium/ 
+
+dm-resource:  Bezpečnost
+Vernamova šifra||http://cs.wikipedia.org/wiki/Vernamova_%C5%A1ifra 
+Dynamic dispatch||http://en.wikipedia.org/wiki/Dynamic_dispatch
+
+dm-resource:  QR Platba
+QR Platba||http://qr-platba.cz/
+QR Platba - Twitter||https://twitter.com/qrplatba 
+Short Payment Descriptor||http://en.wikipedia.org/wiki/Short_Payment_Descriptor 
+By square||http://www.bysquare.com/ 
+
+dm-resource:  Air Bond
+Air Bond||http://air-bond.com/ 
+Vaše mobilní bankovnictví bude brzy bezpečnější||http://www.inmite.eu/en/blog/20131119-air-bond-privesek-pro-lepsi-bezpecnost-mobilni-banky 
+Bluetooth low energy||http://en.wikipedia.org/wiki/Bluetooth_low_energy 
 
 dm-description: 
-Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
-Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.
-Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz.
+Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení.  Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby. 
+
+V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu návštěvníka a také z pohledu organizátora. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Inmite](http://www.inmite.eu/).
