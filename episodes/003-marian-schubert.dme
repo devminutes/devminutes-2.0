@@ -1,21 +1,47 @@
 dm-id:          3
-dm-name:        Miroslav Bajtoš a vývoj Node.js
-dm-date:        1. 6. 2013
-dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
-dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+dm-name:        Marian Schubert o best practices
+dm-date:        25. 10. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/117042591-devminutes-3-marian-schubert.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/3-marian-schubert
 
 dm-resources: 
-dm-resource:  Miroslav Bajtoš
-Twitter||https://twitter.com/bajtos 
-LinkedIn||http://cz.linkedin.com/in/bajtos
-Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+dm-resource:  Marian Schubert
+LinkedIn||http://cz.linkedin.com/in/marianschubert
+Blog||http://blog.maio.cz
+Twitter||https://twitter.com/MarianSchubert
 
-dm-resource:  Node.js
-StrongLoop||http://strongloop.com/
-node.js||http://nodejs.org/
-NerdDinner HK||http://srazy.info/nerddinner-hk/
+dm-resource:  Plánované akce
+WebExpo 2013||http://webexpo.net/prague2013
+WebExpo - I had a pub||http://webexpo.net/prague2013/talk/i-had-pub
+How to get any job worth getting||http://webexpo.net/prague2013/talk/how-to-get-any-job-worth-getting/
+MicroConf 2013||http://www.microconf.com/europe/
+DevFest Praha 2013||http://www.devfest.cz/
+
+dm-resource:  Knížky
+Start Small, Stay Small||http://www.startupbook.net/
+Working Effectively with Legacy Code||http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
+Clean Code: A Handbook of Agile Software Craftsmanship||http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+
+dm-resource:  Shownotes
+NetSafe||http://netsafe.cz/
+Think Forth||http://blog.think-forth.com/
+Albumino||http://albumino.com/
+
+dm-resource:  Shownotes
+The photo duel||http://www.thephotoduel.com/
+Code Retreat||http://coderetreat.cz/
+Twitter Code Retreat||https://twitter.com/coderetreatcz
+Coding Dojo||http://codingdojo.org/cgi-bin/wiki.pl?WhatIsCodingDojo
+CodeKata||http://codekata.pragprog.com/
+10 Fast Fingers||http://10fastfingers.com/
+Behavior-driven development||http://en.wikipedia.org/wiki/Behavior-driven_development
+Learn X in Y minutes||http://learnxinyminutes.com/
+Todo MVC||http://todomvc.com/
+Tomáš Baránek - Co brání rozvoji e-booků u nás?||http://www.youtube.com/watch?v=HYrd_Bz4gJY
 
 dm-description: 
-Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
-Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.
-Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz.
+Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
+
+Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování. 
+
+Za poskytnutí prostor pro natáčení třetího dílu děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
