@@ -1,21 +1,30 @@
 dm-id:          2
-dm-name:        2Filip Hráček o Google, Dartu a Glass
-dm-date:        8. 7. 2013
-dm-mp3:         http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
-dm-soundcloud:  https://soundcloud.com/devminutes/1-miroslav-bajtos
+dm-name:        Filip Hráček o Google, Dartu a Glass
+dm-date:        25. 10. 2013
+dm-mp3:         http://feeds.soundcloud.com/stream/117038931-devminutes-2-filip-hracek.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/2-filip-hracek
 
 dm-resources: 
-dm-resource:  Miroslav Bajtoš
-Twitter||https://twitter.com/bajtos 
-LinkedIn||http://cz.linkedin.com/in/bajtos
-Jak si najít práci v zahraničí||ttp://devblog.cz/2013/06/jak-si-najit-praci-v-zahranici/
+dm-resource:  Filip Hráček
+LinkedIn||http://www.linkedin.com/in/visible
+Google plus||https://plus.google.com/111783114889748547827
+Twitter||https://twitter.com/filiphracek
+Blog||http://www.runtime.cz/
+TMZNS||http://www.tmzns.com/
+gug.cz - GDG||http://www.gug.cz/cs/gdg
 
-dm-resource:  Node.js
-StrongLoop||http://strongloop.com/
-node.js||http://nodejs.org/
-NerdDinner HK||http://srazy.info/nerddinner-hk/
+dm-resource:  Shownotes
+Dart||http://www.dartlang.org/
+Package repository||http://pub.dartlang.org/
+Go||http://golang.org/
+Google Glass||http://www.google.com/glass/start
+Anders Hejlsberg and Lars Bak: TypeScript, JavaScript, and Dart||http://www.youtube.com/watch?v=5AqbCQuK0gM
+Dart language support on AppEngine||https://code.google.com/p/googleappengine/issues/detail?id=6092
+Larry Page Google CEO Complete Q &amp; A at Google I/O 2013||http://www.youtube.com/watch?v=AfK8h73bb-o
 
 dm-description: 
 Hostem druhého dílu byl Filip Hráček, který pracuje ve společnosti Google jako Developer Relations Manager. Filipa můžete znát z GUG.cz akcí, kterých se účastní nebo i pomáhá s organizací.
+
 Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně přesně každý den dělá. Povídali jsme si i o potenciálu a budoucnosti jazyka Dart nebo o Google Glass.
-Za poskytnutí prostor pro natáčení tohoto dílu děkujeme Google.cz.
+
+Za poskytnutí prostor pro natáčení tohoto dílu děkujeme [Google CZ](http://www.google.cz/). 
