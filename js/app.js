@@ -23,3 +23,9 @@ devminutesApp.config(['$locationProvider', '$routeProvider',
         controller: 'EpisodeListCtrl'
       });
 }]);
+
+devminutesApp.run(['$location', '$rootScope', function($location, $rootScope) {
+    $rootScope.$on('$routeChangeSuccess', function (event, current, previous) {
+        $rootScope.title = "DevMinutes";
+    });
+}]);

@@ -1,6 +1,6 @@
 var devminutesControllers = angular.module('dmControllers', [ 'ngSanitize' ]);
 
-devminutesControllers.controller('EpisodeListCtrl', ['$scope', '$http', '$sce', 
+devminutesControllers.controller('EpisodeListCtrl', ['$scope', '$http', '$sce',
     function($scope, $http, $sce) {
         $scope.episodes = [];
         $http.get('../common/episode-grammer.pegjs').success(function(grammer) {
@@ -34,8 +34,8 @@ devminutesControllers.controller('EpisodeListCtrl', ['$scope', '$http', '$sce',
     }        
 ]);
 
-devminutesControllers.controller('EpisodeDetailCtrl', ['$scope', '$routeParams', '$http', '$sce',    
-    function($scope, $routeParams, $http, $sce) {
+devminutesControllers.controller('EpisodeDetailCtrl', ['$scope', '$routeParams', '$http', '$sce', '$rootScope',  
+    function($scope, $routeParams, $http, $sce, $rootScope) {
         $scope.contentLoaded = false;
         
         var episodeId = $routeParams.episodeId;
@@ -50,6 +50,9 @@ devminutesControllers.controller('EpisodeDetailCtrl', ['$scope', '$routeParams',
 
                     $scope.episode = episode;
                     $scope.contentLoaded = true;
+                    
+                    $rootScope.title = 'DevMinutes - ' + episode.name;
+                    $rootScope.apply();
                 });
             });
         });
