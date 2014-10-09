@@ -18,6 +18,10 @@ devminutesApp.config(['$locationProvider', '$routeProvider',
         templateUrl: 'partials/episode-detail.html',
         controller: 'EpisodeDetailCtrl'
       }).
+      when('/about', {
+        templateUrl: 'partials/about.html',
+        controller: 'AboutCtrl'
+      }).
       otherwise({
         templateUrl: 'partials/episode-list.html',
         controller: 'EpisodeListCtrl'
