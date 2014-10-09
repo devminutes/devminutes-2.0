@@ -55,14 +55,3 @@ devminutesControllers.controller('EpisodeDetailCtrl', ['$scope', '$routeParams',
         });
     }
 ]);
-
-function sleep(millis)
- {
-  var startDate = new Date();
-  var currentDate = null;
-  
-  do { 
-     currentDate = new Date(); 
-  }
-  while(currentDate - startDate < millis);
-}
