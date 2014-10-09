@@ -106,12 +106,13 @@ body {
     max-width: 950px;
   } 
 
-  #footer {
-    background-color: #1e2629;
-    border-top: solid 1px #647075;
-    color: #7f8284;
-    font-size: 10pt;
-    text-align: center;
-    padding: 7px;
-    line-height: 20px;
+
+#copyright {
+  background-color: #1e2629;
+  border-top: solid 1px #647075;
+  color: #7f8284;
+  font-size: 10pt;
+  text-align: center;
+  padding: 7px;
+  line-height: 20px;
 }
