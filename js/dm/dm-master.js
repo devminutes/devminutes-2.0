@@ -21,6 +21,7 @@ function DMMaster(grammer) {
 
 
     // postprocessing
+    result.perex = getPerexFromDescription(result.description);
     result.description = convertToHtml(result.description);    
     result.soundcloudId = parseSoundCloudIdFromMp3Url(result.mp3);
     result.soundcloudPlayerUrl = makeSoundplayerUrl(result.soundcloudId);
@@ -33,6 +34,11 @@ function DMMaster(grammer) {
   convertToHtml = function(descriptionWithMarkdown) {
     var converter = new Showdown.converter();
     return converter.makeHtml(descriptionWithMarkdown);
+  }
+
+  // fist 60 letters from description
+  getPerexFromDescription = function(description) {
+    return description.substring(0, 60) + '...';
   }
 
   // mp3 url sample: 
