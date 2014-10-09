@@ -58,3 +58,9 @@ devminutesControllers.controller('EpisodeDetailCtrl', ['$scope', '$routeParams',
         });
     }
 ]);
+
+devminutesControllers.controller('AboutCtrl', ['$scope', '$routeParams', '$http',  
+    function($scope, $routeParams, $http) {
+        $rootScope.title = 'DevMinutes - o podcastu';
+    }
+]);
