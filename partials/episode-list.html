@@ -7,9 +7,13 @@
   <a href="{{newestEpisode.url}}" class="download">Detail a vice informaci</a>
 </div>
 
+<div id="archiv">
+	ARCHÍV
+</div>
+
 <div class="episode-list">
   <div class="episode-list-item episode-listing" ng-repeat="episode in episodes | orderBy:orderProp">
   <h4><a href="{{episode.url}}">#{{episode.id}} {{episode.name}}</a></h4>
-  <!--<p>{{episode.date}}</p>-->
+  <p>{{episode.date}} / {{episode.perex}}</p>
   </div>
 </div>

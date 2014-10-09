@@ -32,12 +32,17 @@ body {
   box-sizing: border-box;
   margin-top: 30px;
   padding: 15px;
-  color:#222;
+  color:#534540;
 }
 
 .episode h1 {
   font-size: 22pt;
   margin:0px;
+}
+
+.episode a {
+  color:#534540;
+  text-decoration: underline;
 }
 
 .episode .description {
@@ -65,18 +70,40 @@ body {
   padding-right: 40px;
 }
 
+#archiv {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #534540;
+}
+
 .episode-list {
   border-bottom: solid 1px #f2f2f2;
   margin-top: 20px;
   background-color: white;
-  background-color: #eee;
-  padding: 20px;
 }
 
 .episode-list-item {
   border-spacing: 2px;
-  border-bottom: solid 1px #f2f2f2;
-  color: #555;
+  color: #534540;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 2px;
+}
+
+.episode-list-item:hover {
+  background-color: #eee;
+}
+
+.episode-list-item a {
+  color: #534540;
+  font-weight: bold;
+}
+
+.episode-list-item p {
+  color: #534540;
+  font-weight: normal;
 }
 
 #about {
