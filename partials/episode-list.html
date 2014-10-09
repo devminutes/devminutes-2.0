@@ -1,5 +1,7 @@
 <div class="episode episode-listing">
-  <h1>#{{newestEpisode.id}} {{newestEpisode.name}}</h1>
+  <h1>
+    <a href="{{newestEpisode.url}}">#{{newestEpisode.id}} {{newestEpisode.name}}</a>
+  </h1>
   <div ng-bind-html="newestEpisode.description" class="description"></div>
   <div ng-bind-html="newestEpisode.soundcloudPlayer"></div>
 
