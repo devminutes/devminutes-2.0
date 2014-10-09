@@ -3,16 +3,16 @@ DevMinutes web
 
 Czech podcast for developers. 
 
-Requirements (dev)
-----------------------
+## Requirements (dev)
+
 1. Node and npm  
 2. Bower
 3. An application server (php, ...)
 
 
-How to start development
-----------------------
-```shell
+## How to start development
+
+```sh
 # software preparation (bower and php server)
 # software installation need do in administrator mode (sudo)
 $ npm install -g bower
