@@ -1,16 +1,14 @@
-DevMinutes web
-==========
+# DevMinutes web
 
 Czech podcast for developers. 
 
-## Requirements (dev)
+**Requirements (dev)**
 
-1. Node and npm  
-2. Bower
-3. An application server (php, ...)
+1. Git
+2. Node and npm  
 
 
-## How to start development
+### How to start development
 
 ```sh
 # software preparation (bower and php server)
@@ -24,4 +22,4 @@ $ sudo bower install
 $ php -S localhost:9090
 ```
 
-Go to browser and enter url http://localhost:9090
+Go to browser and enter url *http://localhost:9090*
