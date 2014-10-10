@@ -85,16 +85,18 @@ body {
 }
 
 #archiv {
-  margin-top: 50px;
+  margin-top: 10px;
+  padding-top: 40px;
   font-size: 20px;
   font-weight: bold;
   color: #534540;
+  border-top: 1px solid #ddd;
 }
 
 .episode-list {
-  border-bottom: solid 1px #f2f2f2;
   margin-top: 20px;
   background-color: white;
+  margin-bottom: 20px;
 }
 
 .episode-list-item {
