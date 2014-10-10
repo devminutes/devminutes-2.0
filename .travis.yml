@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - "0.10"
+script:
+  - npm install -g bower
+  - bower install
+  - openssl aes-256-cbc -k "$encrypt_key" -d -a -in devminutes_deploy.enc -out id_rsa
+  - mv id_rsa ~/.ssh
+  - chmod 400 ~/.ssh/id_rsa
+  - rm .gitignore
+  - rm -rf .git
+  - git init
+  - git config --global user.email "devminutes@gmail.com"
+  - git config --global user.name "DevMinutes"
+  - git remote add origin git@github.com:devminutes/devminutes.github.io.git
+  - git add .
+  - git commit -m "New version"
+  - git push -f origin master
