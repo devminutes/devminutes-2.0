@@ -11,6 +11,11 @@ Twitter||https://twitter.com/PetrSimecek
 Facebook||https://www.facebook.com/petr.simecek.376
 Blog||http://padak.keboola.com/
 
+dm-resource:  Events
+14. 12. (sobota) - Praha, Vsetín, Ostrava||http://coderetreat.cz/
+18. 12. (středa) - Praha - CZJUG||http://java.cz/detail.do?articleId=2252
+18. 12. (středa) - Praha - JetBrains Tools for .NET Developers||http://info.jetbrains.com/Prague_Event18122013.html
+
 dm-resource:  Keboola
 Keboola||http://www.keboola.com/
 The Official Keboola Blog||http://blog.keboola.com/
@@ -20,10 +25,6 @@ Roman Staněk: Start-up as a Service||http://www.youtube.com/watch?v=O2IBQiHfTsI
 Fast-moving consumer goods||http://en.wikipedia.org/wiki/Fast-moving_consumer_goods
 Jak GoodData a Keboola mění můj život||http://tomcupr.cz/post/40834805363/jak-gooddata-a-keboola-meni-muj-zivot
 Five Years From Now, CMOs Will Spend More on IT Than CIOs Do||http://www.forbes.com/sites/lisaarthur/2012/02/08/five-years-from-now-cmos-will-spend-more-on-it-than-cios-do/
-
-dm-resource:  Cloud
-Cloud - vyhazujeme peníze oknem?||http://padak.keboola.com/cloud-vyhazujeme-penize-oknem
-Cloud - nejvíc nebezpečná věc pro české firmy!!||http://padak.keboola.com/cloud-nejvic-nebezpecna-vec-pro-ceske-firmy
 
 dm-resource:  Hadoop/BigData
 Apache Hadoop||http://hadoop.apache.org/
@@ -37,11 +38,6 @@ When in doubt: UPS avoids left turns||http://compass.ups.com/UPS-driver-avoid-le
 Nobody ever got fired for using Hadoop on a cluster||http://research.microsoft.com/pubs/163083/hotcbp12%20final.pdf
 Seznam Opens Part of Its Full Text Search Technology for StartupYard 2014||http://startupyard.com/seznam-opens-part-of-its-full-text-search-technology-for-startupyard-2014/
 When in doubt: UPS avoids left turns||http://compass.ups.com/UPS-driver-avoid-left-turns/
-
-dm-resource:  Events
-14. 12. (sobota) - Praha, Vsetín, Ostrava||http://coderetreat.cz/
-18. 12. (středa) - Praha - CZJUG||http://java.cz/detail.do?articleId=2252
-18. 12. (středa) - Praha - JetBrains Tools for .NET Developers||http://info.jetbrains.com/Prague_Event18122013.html
 
 dm-resource:  Technologie/Služby
 The R Project for Statistical Computing||http://www.r-project.org/
@@ -59,6 +55,10 @@ Amazon Relational Database Service (Amazon RDS)||http://aws.amazon.com/rds/
 rackspace||http://www.rackspace.com/
 Windows Azure||http://www.windowsazure.com/
 Amazon Elastic MapReduce (Amazon EMR)||http://aws.amazon.com/elasticmapreduce
+
+dm-resource:  Cloud
+Cloud - vyhazujeme peníze oknem?||http://padak.keboola.com/cloud-vyhazujeme-penize-oknem
+Cloud - nejvíc nebezpečná věc pro české firmy!!||http://padak.keboola.com/cloud-nejvic-nebezpecna-vec-pro-ceske-firmy
 
 dm-description: 
 Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. 
