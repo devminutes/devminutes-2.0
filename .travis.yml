@@ -6,6 +6,7 @@ script:
   - bower install
   - wget -O rss.xml http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss 
   - openssl aes-256-cbc -k "$encrypt_key" -d -a -in devminutes_deploy.enc -out id_rsa
+  - cp index.html 404.html
   - mv id_rsa ~/.ssh
   - chmod 400 ~/.ssh/id_rsa
   - rm .gitignore
