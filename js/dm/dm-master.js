@@ -103,6 +103,6 @@ function DMMaster(grammer) {
   }
 
   makeEpisodeUrl = function(episodeId) {
-    return window.location.origin + "/#!/episodes/".concat(episodeId);
+    return window.location.origin + "/episode/".concat(episodeId);
   }
 }

@@ -7,14 +7,15 @@ var devminutesApp = angular.module('devminutes', [
 
 devminutesApp.config(['$locationProvider', '$routeProvider',
   function($locationProvider, $routeProvider) {
-    $locationProvider.hashPrefix('!');
+    // $locationProvider.hashPrefix('!');
+    $locationProvider.html5Mode(true);   
 
     $routeProvider.
       when('/episodes', {
         templateUrl: 'partials/episode-list.html',
         controller: 'EpisodeListCtrl'
       }).
-      when('/episodes/:episodeId', {
+      when('/episode/:episodeId', {
         templateUrl: 'partials/episode-detail.html',
         controller: 'EpisodeDetailCtrl'
       }).
