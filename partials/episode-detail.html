@@ -1,4 +1,9 @@
-<div class="episode">
+<nav>
+  <ul class="pager">
+    <li class="previous"><a href="#">&larr; Všechny epizody</a></li>
+  </ul>
+</nav>
+
   <h1>#{{episode.id}} {{episode.name}}</h1>
   <div ng-bind-html="episode.description" class="description"></div>
   <div ng-bind-html="episode.soundcloudPlayer"></div>
