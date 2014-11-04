@@ -52,7 +52,6 @@ devminutesControllers.controller('EpisodeDetailCtrl', ['$scope', '$routeParams',
                     $scope.contentLoaded = true;
                     
                     $rootScope.title = 'DevMinutes - ' + episode.name;
-                    $rootScope.apply();
                 });
             });
         });
