@@ -5,7 +5,6 @@ dm-mp3:         http://feeds.soundcloud.com/stream/177617426-devminutes-19-praco
 dm-soundcloud:  https://soundcloud.com/devminutes/19-pracovna
 
 dm-resources: 
-
 dm-resource: Pracovna
 Andrea Kosářová||https://cz.linkedin.com/pub/andrea-kosarova/47/137/a2b
 Jan Pelán||https://cz.linkedin.com/pub/jan-pelán/81/b58/642
@@ -13,15 +12,15 @@ Pracovna||http://pracovna.cz/
 Twitter||https://twitter.com/pracovnacz
 Facebook||https://www.facebook.com/pracovna
 
-dm-resource: Pracovna v Parku
-Pracovna v Parku||http://pracovnavparku.cz/
-Facebook||https://www.facebook.com/pracovnavparku
-
 dm-resource: Události
 DevFest||http://www.devfest.cz
 Global day of CodeRetreat||http://srazy.info/coderetreat/terminy
 jOpenspace||http://jopenspace.cz
 Coding Dojo||https://github.com/codingdojoprague
+
+dm-resource: Pracovna v Parku
+Pracovna v Parku||http://pracovnavparku.cz/
+Facebook||https://www.facebook.com/pracovnavparku
 
 dm-description:
 Do devaténáctého dílu přijali naše pozvání Andrea Kosařová a Jan Pelán. Jednalo se o historický díl, kde jsme nebyli v přesile. Kdo někdy slyšel o Andree nebo Honzovi, tak jistě bude tušit téma tohoto dílu. Hlavním tématem byla Pracovna - netradiční coworkingové centrum a kavárna. Zjistili jsme, co to znamená si otevřít takové centrum a jak vůbec funguje. Dozvíte se také, mimo jiné, jak se stát členem a jaké výhody vám to přinese. 
