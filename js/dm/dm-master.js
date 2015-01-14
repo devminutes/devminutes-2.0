@@ -6,7 +6,7 @@ function DMMaster(grammer) {
     return episodeFileNames.map(function(fileName) {
       var id = parseInt(_.string.strLeft(fileName, '-'));
       return new EpisodeConfiguration(id, fileName);
-    });
+    }).sort(function(a, b) { return b.id - a.id; });;
   }
 
   this.findEpisodeConfigurationById = function(configuration, episodeId) {

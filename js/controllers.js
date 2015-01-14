@@ -8,7 +8,6 @@ devminutesControllers.controller('EpisodeListCtrl', ['$scope', '$http', '$sce',
 
             $http.get('../episodes/000-list.dme').success(function(data) {
                 var configuration = master.parseConfiguration(data);
-                configuration.sort(function(a, b) { return b.id - a.id; });
                 var newestEpisodeId = configuration[0].id;
 
                 for (index = 0; index < configuration.length; index++) {
