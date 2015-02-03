@@ -127,47 +127,40 @@ body {
   color: #979b9c;
 }
 
-  #about h3 {
-    font-weight: normal;
-    font-size: 15pt;
-    padding: 0px;
-    margin: 0px;
-    line-height: 20pt;
-  }
-
-  #about p {
-    font-size: 10pt;
-    font-size: 13px;
-    line-height: 21px;
-  }
-
-  #about a {
-    color: #979b9c;
-    font-weight: bold;
-  }
-
   #about .authors {
-    padding: 10px;
-    background-color: #2E3639;
-  } 
-
-  #about .authors img {
-    width: 140px;
+    margin-top: 10px;
+    text-align: center;
   }
 
-  #about .podcast {
-    padding: 10px;
-    background-color: #2E3639;
-  } 
+  #about .author-avatar {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    margin: 40px 20px 20px 20px;
+  }
 
-  #about .size {
-    max-width: 950px;
-  } 
+  #about .devminutes {
+    background: url(https://pbs.twimg.com/profile_images/378800000071151377/741e202ca3a65a9fdd2fdf099f051bef.png) no-repeat;
+    background-size: 80px 80px;
+  }
 
+  #about .mictech {
+    background: url(https://pbs.twimg.com/profile_images/416911252/twitter.jpg) no-repeat;
+    background-size: 80px 80px;
+  }
+
+  #about .jirkapenzes {
+    background: url(https://pbs.twimg.com/profile_images/528659755489689601/RovW3rdy.jpeg) no-repeat;
+    background-size: 80px 80px;
+  }
 
 #copyright {
-  background-color: #1e2629;
-  border-top: solid 1px #647075;
   color: #7f8284;
   font-size: 10pt;
   text-align: center;
