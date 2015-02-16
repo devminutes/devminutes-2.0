@@ -1,0 +1,49 @@
+dm-id:          20
+dm-name:        Jakub Veverka a Martin Damovský o Dockeru
+dm-date:        16. 02. 2015
+dm-mp3:         http://feeds.soundcloud.com/stream/191406123-devminutes-20-docker.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/20-docker
+
+dm-resources: 
+dm-resource: Jakub Veverka
+LinkedIn||http://cz.linkedin.com/pub/jakub-veverka/7/a70/a80
+Twitter||https://twitter.com/velkyk
+LinkedIn||https://github.com/veverjak
+CoreOS Marathon writeup||http://vevalinuxcorner.blogspot.cz/2014/08/coreos-marathon-writeup.html
+coreos-mesos-marathon||https://github.com/veverjak/coreos-mesos-marathon
+
+dm-resource: Martin Damovský
+LinkedIn||http://cz.linkedin.com/in/damovsky
+Twitter||https://twitter.com/damovsky
+
+dm-resource: Docker
+Docker||https://www.docker.com/
+LXC||https://en.wikipedia.org/wiki/LXC
+boot2Docker||http://boot2docker.io/
+Vagrant||https://www.vagrantup.com/
+Docker Registry||https://registry.hub.docker.com/
+Core OS||https://coreos.com/
+Mesos||https://mesos.apache.org/
+Launching Containers with fleet||https://coreos.com/docs/launching-containers/launching/launching-containers-fleet/
+Rocket||https://coreos.com/blog/rocket/
+Marathon||https://mesosphere.github.io/marathon/
+Kubernetes||http://kubernetes.io/
+Delivering eBay’s CI Solution with Apache Mesos – Part I||http://www.ebaytechblog.com/2014/04/04/delivering-ebays-ci-solution-with-apache-mesos-part-i/
+Delivering eBay’s CI Solution with Apache Mesos – Part II||http://www.ebaytechblog.com/2014/05/12/delivering-ebays-ci-solution-with-apache-mesos-part-ii/
+Introducing Docker in Microsoft Azure Marketplace||http://azure.microsoft.com/blog/2015/01/08/introducing-docker-in-microsoft-azure-marketplace/
+
+dm-resource: Události
+Docker Prague||http://www.meetup.com/Docker-Prague-Czech-Republic
+Node school||http://nodeschool.io/hradec-kralove/
+DataGirls||https://www.facebook.com/datagirls
+CodeRetreat CZ||http://coderetreat.cz/
+Coding Dojo||http://srazy.info/coding-dojo-prague/terminy/
+CZJUG||http://java.cz/article/czjug
+Python||http://python.cz/
+
+dm-description:
+Tématem dvacítky a zároveň prvního dílu roku 2015 byla technologie Docker. O tomto tématu nám přišli povídat Jakub Veverka a Martin Damovský. Vzali jsme to od samotného úvodu až po pokročilé použití. Kluci nás seznamili s nástroji, workflow, současným stavem a budoucností. Povídali jsme si také o alternativách, které Docker aktuálně má.  
+
+Martin povídal o možnostech využití z pohledu vývojáře a Jakub naopak z pohledu operation a obecně nasazaní Dockeru do continues integration ifrastruktury. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
