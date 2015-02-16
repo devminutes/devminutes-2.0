@@ -42,8 +42,8 @@ CZJUG||http://java.cz/article/czjug
 Python||http://python.cz/
 
 dm-description:
-Tématem dvacítky a zároveň prvního dílu roku 2015 byla technologie Docker. O tomto tématu nám přišli povídat Jakub Veverka a Martin Damovský. Vzali jsme to od samotného úvodu až po pokročilé použití. Kluci nás seznamili s nástroji, workflow, současným stavem a budoucností. Povídali jsme si také o alternativách, které Docker aktuálně má.  
+Tématem dvacítky a zároveň prvního dílu roku 2015 byla technologie Docker. O tomto tématu jsme si povídali s Jakubem Veverkou a Martinem Damovským. Vzali jsme to od samotného úvodu až po pokročilé použití. Kluci nás seznamili s nástroji, workflow, současným stavem a budoucností. Povídali jsme si mimo jiné také o alternativách, které Docker aktuálně má.  
 
-Martin povídal o možnostech využití z pohledu vývojáře a Jakub naopak z pohledu operation a obecně nasazaní Dockeru do continues integration ifrastruktury. 
+Martin nám řekl o možnostech využití z pohledu vývojáře a Jakub naopak z pohledu operation a obecně nasazaní Dockeru do continues integration ifrastruktury. 
 
 Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
