@@ -2,6 +2,7 @@ var devminutesApp = angular.module('devminutes', [
   'ngRoute',
   'dmAnimations',
   'dmControllers',
+  'djds4rce.angular-socialshare',
   'angularUtils.directives.dirDisqus'
 ]);
 
