@@ -9,8 +9,10 @@
   <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
   <link href="css/design.css" rel="stylesheet">
   <link href="css/animations.css" rel="stylesheet">
+
   <link href='http://fonts.googleapis.com/css?family=Lora:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <link rel="alternate" type="application/rss+xml" title="DevMinutes" href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" />
+
   <script src="bower_components/jquery/jquery.min.js"></script>
   <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
   <script src="bower_components/underscore.string/lib/underscore.string.js"></script>
@@ -22,17 +24,18 @@
   <script src="bower_components/angular-socialshare/angular-socialshare.min.js"></script>
   <script src="js/lib/peg-0.8.0.min.js"></script>
   <script src="js/lib/dirDisqus.js"></script>
-  <script src="js/app.js"></script>
-  <script src="js/controllers.js"></script>
-  <script src="js/animations.js"></script>
+
   <script src="js/dm/dm-injector.js"></script>
   <script src="js/dm/dm-objects.js"></script>
   <script src="js/dm/dm-master.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/animations.js"></script>
 </head>
 
 <body>
   <div id="header" class="container">
-    <ng-include src="'../partials/header.html'"></ng-include>
+    <ng-include src="'partials/header.html'"></ng-include>
   </div>
 
   <div id="content" class="container">
@@ -41,7 +44,7 @@
 
   <footer id="footer">
     <div id="about">
-      <ng-include src="'../partials/footer-authors.html'"></ng-include>
+      <ng-include src="'partials/footer-authors.html'"></ng-include>
     </div>
 
     <div id="copyright">
@@ -52,7 +55,6 @@
   <!-- Tweet button js -->
   <script async>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
   </script>
-
 
   <!-- Facebook button js -->
   <div id="fb-root"></div>

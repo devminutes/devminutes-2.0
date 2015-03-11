@@ -12,7 +12,7 @@ devminutesApp.config(['$locationProvider', '$routeProvider',
     $locationProvider.html5Mode(true);   
 
     $routeProvider.
-      when('/episodes', {
+      when('/', {
         templateUrl: 'partials/episode-list.html',
         controller: 'EpisodeListCtrl'
       }).
@@ -25,10 +25,39 @@ devminutesApp.config(['$locationProvider', '$routeProvider',
         controller: 'AboutCtrl'
       }).
       otherwise({
-        templateUrl: 'partials/episode-list.html',
-        controller: 'EpisodeListCtrl'
+        redirectTo: '/'
       });
 }]);
+
+devminutesApp.service('masterLoader', function($http, $q) {
+  this.master = null;
+
+  this.load = function() {
+    if (this.master) {
+      return $q.when(this.master);
+    }
+
+    return $http.get('common/episode-grammer.pegjs').then(function(response) {
+      this.master = new DMMaster(response.data);
+      return this.master;
+    }.bind(this))
+  }
+});
+
+devminutesApp.service('listService', function($http, $q) {
+  this.data = null;
+
+  this.load = function() {
+    if (this.data) {
+      return $q.when(this.data);
+    }
+
+    return $http.get('episodes/000-list.dme').then(function(response) {
+      this.data = response.data;
+      return this.data;
+    }.bind(this))
+  }
+});
 
 devminutesApp.run(['$location', '$rootScope', function($location, $rootScope) {
     $rootScope.$on('$routeChangeSuccess', function (event, current, previous) {
