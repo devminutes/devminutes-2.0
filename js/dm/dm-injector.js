@@ -27,7 +27,7 @@ EasterEgg.prototype.then = function(f) {
     this.callback = f;
 };
 
-new EasterEgg('devminutes1').then(function () {
+new EasterEgg('czpodcast').then(function () {
   var dmHomer = document.createElement('div');
   dmHomer.id = 'easteregg';
   dmHomer.style.position = 'absolute';
