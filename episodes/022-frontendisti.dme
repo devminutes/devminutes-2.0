@@ -1,15 +1,41 @@
 dm-id:          22
-dm-name:        Robin Pokorný a Martin Michálek o frontendistech
+dm-name:        Martin Michálek a Robin Pokorný o frontendistech
 dm-date:        26. 05. 2015
-dm-mp3:         http://feeds.soundcloud.com/stream/...
+dm-mp3:         http://feeds.soundcloud.com/stream/207598776-devminutes-22-frontendisti.mp3
 dm-soundcloud:  https://soundcloud.com/devminutes/22-frontendisti
 
 dm-resources: 
-dm-resource: Robin Pokorný
-Twitter||https://twitter.com/robinpokorny
-
 dm-resource: Martin Michálek
+LinkedIn||https://cz.linkedin.com/in/martinmichalek
 Twitter||https://twitter.com/machal
+Vzhůru dolů||http://www.vzhurudolu.cz/
+
+dm-resource: Robin Pokorný
+LinkedIn||https://cz.linkedin.com/in/robinpokorny
+Twitter||https://twitter.com/robinpokorny
+Web||http://robinpokorny.com/
+Brus kódu||http://bruskodu.cz/
+
+dm-resource: Events
+Frontendisti||http://www.frontendisti.cz/
+
+dm-resource: Frontend
+Posuňme Definici “Front-End Developera”||http://www.zdrojak.cz/clanky/posunme-definici-front-end-developera/
+
+dm-resource: Frameworks
+Bootstrap||http://getbootstrap.com/
+jQuery||https://jquery.com/
+AngularJS||https://angularjs.org/
+React||https://facebook.github.io/react/
+
+dm-resource: Tools
+ClojureScript||https://github.com/clojure/clojurescript
+Gulp||http://gulpjs.com/
+CSS preprocessors||https://github.com/showcases/css-preprocessors
+WebPageTest||http://www.webpagetest.org/video/
+
+Others
+Mixin||http://en.wikipedia.org/wiki/Mixin
 
 dm-description:
 Po menší přestávce přinášíme 22 díl. Tentokrát jsme vyzpovídali Robina Pokorného a Martina Michálka. 
