@@ -1,0 +1,25 @@
+dm-id:          23
+dm-name:        Aleš Roubíček a Marian Schubert o funkcionálním programování
+dm-date:        16. 6. 2015
+dm-mp3:         http://feeds.soundcloud.com/stream/...
+dm-soundcloud:  https://soundcloud.com/devminutes/23-...
+
+dm-resources: 
+dm-resource:  Aleš Roubíček
+Twitter||https://twitter.com/alesroubicek
+
+dm-resource:  Marian Schubert
+Twitter||https://twitter.com/marianschubert
+
+dm-description: 
+Do tohoto dílu přijali naše pozvání Aleš Roubíček a Marian Schubert. Nosným tématem 
+tentokrát bylo funkcionální programování. Kluci nám lehce odtajnili funkcionální svět 
+a řekli nám jak vlastně začít a proč. 
+
+Nemalá čast povídaní se točila i konkrétněji, a to okolo platformy Clojure. Zde jsme 
+si rozebrali možnosti využití a také potřebný tooling. Proč se vyplatí Clojure mrknout 
+a jaké může přinést výhody. Mimo dalšího se třeba dozvíte jak je to se spojením s Javou 
+a jak je to v Clojure světě s frameworky. 
+
+Marian byl našim hostem podruhé a prvně jsme s ním povídali o [Best Practices](../episode/3). 
+Za poskytnutí prostor pro natáčení tentokrát děkujeme [Vendavo CZ](http://www.vendavo.cz/). 
