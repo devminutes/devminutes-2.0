@@ -5,11 +5,51 @@ dm-mp3:         http://feeds.soundcloud.com/stream/...
 dm-soundcloud:  https://soundcloud.com/devminutes/23-...
 
 dm-resources: 
-dm-resource:  Aleš Roubíček
+dm-resource: Aleš Roubíček
 Twitter||https://twitter.com/alesroubicek
+LinkedIn||https://www.linkedin.com/in/rarous
+Web||http://www.rarous.net/
 
-dm-resource:  Marian Schubert
+dm-resource: Marian Schubert
 Twitter||https://twitter.com/marianschubert
+LinkedIn||https://www.linkedin.com/in/marianschubert
+Cryptelo||https://www.cryptelo.com
+
+dm-resource: Akce
+TopMonks caffè - "Mobile friendly vývoj"||https://www.facebook.com/events/1444296539224478/
+EuroClojure 2015||http://euroclojure.org/
+Curry On Prague! 2015||http://www.curry-on.org/
+Coding Dojo||http://codingdojo.cz/
+Code Retreat||http://coderetreat.cz/
+Prague Lambda Meetup||http://www.meetup.com/Lambda-Meetup-Group/
+
+dm-resource: Funkcionální programování
+Functional programming||https://en.wikipedia.org/wiki/Functional_programming
+Erlang||http://www.erlang.org/
+Haskell||https://www.haskell.org/
+F#||http://fsharp.org/
+
+dm-resource: Clojure
+Clojure||http://clojure.org/
+ClojureScript||https://github.com/clojure/clojurescript
+ClojureCLR||http://clojure.org/clojureclr
+Datomic||http://www.datomic.com/
+Pedestal||https://github.com/pedestal/pedestal
+Transit||https://github.com/cognitect/transit-clj
+Transducers||http://clojure.org/transducers
+Leiningen||https://github.com/technomancy/leiningen/
+Light Table||http://lighttable.com/
+Cursive - IntelliJ||https://cursiveclojure.com/
+Luminus||http://www.luminusweb.net/
+Liberator||https://clojure-liberator.github.io/liberator/
+REPL||https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+ClojureScript Koans||http://clojurescriptkoans.com/
+4Clojure||https://www.4clojure.com/
+
+dm-resource: Ostatní
+React||https://facebook.github.io/react/
+Unity||https://unity3d.com/
+Eve||https://vimeo.com/119406195
 
 dm-description: 
 Do tohoto dílu přijali naše pozvání Aleš Roubíček a Marian Schubert. Nosným tématem 
