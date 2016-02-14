@@ -22,7 +22,7 @@ function DMMaster(grammer) {
 
     // postprocessing
     result.perex = getPerexFromDescription(result.description);
-    result.description = convertToHtml(result.description);    
+    result.description = convertToHtml(result.description);
     result.soundcloudId = parseSoundCloudIdFromMp3Url(result.mp3);
     result.soundcloudPlayerUrl = makeSoundplayerUrl(result.soundcloudId);
     result.soundcloudPlayer = makeSoundCloudPlayer(result.soundcloudPlayerUrl);
@@ -41,37 +41,33 @@ function DMMaster(grammer) {
     return description.substring(0, 60) + '...';
   }
 
-  // mp3 url sample: 
+  // mp3 url sample:
   // http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3
   parseSoundCloudIdFromMp3Url = function(mp3url) {
     var tmp = mp3url.substring(mp3url.lastIndexOf('/') + 1, mp3url.length);
     return tmp.substring(0, tmp.indexOf('-'));
   }
 
-  // sample: 
-  // https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/117006007&amp;color=ff6600&amp;auto_play=false&amp;player_type=tiny
+  // sample:
+  // https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246673649&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
   makeSoundplayerUrl = function(soundcloudId) {
-    var tmp = "https://player.soundcloud.com/player.swf?url=https%3A//api.soundcloud.com/tracks/".concat(soundcloudId);
-    return tmp.concat("&color=ff6600&auto_play=false&player_type=tiny");
+    var tmp = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/".concat(soundcloudId);
+    return tmp.concat("&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false");
   }
 
   /*
-  <object height="18" width="100%">
-    <param name="movie" value="makeSoundplayerUrl"></param>
-    <param name="allowscriptaccess" value="always"></param>
-    <param name="wmode" value="transparent"></param>
-    <embed wmode="transparent" allowscriptaccess="always" height="18" width="100%" src='makeSoundplayerUrl'></embed>
-  </object>
+  <iframe width="100%" height="166" scrolling="no" frameborder="no"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246673649&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false">
+  </iframe>
   */
   makeSoundCloudPlayer = function(soundcloudUrl) {
-    var tmp = "<object height='18' width='100%'>"
-    tmp = tmp.concat("<param name='movie' value='").concat(soundcloudUrl).concat("'></param>");
-    tmp = tmp.concat("<param name='allowscriptaccess' value='always'></param>");
-    tmp = tmp.concat("<param name='wmode' value='transparent'></param>");
-    tmp = tmp.concat("<embed wmode='transparent' allowscriptaccess='always' height='18' width='100%' src='").concat(soundcloudUrl).concat("'></embed>");
-    tmp = tmp.concat("</object>");
+    var tmp = "<iframe width='100%' height='166' scrolling='no' frameborder='no' ";
+    tmp = tmp.concat("src='").concat(soundcloudUrl).concat("'>");
+    tmp = tmp.concat("</iframe>");
     return tmp;
   }
+
+
 
   makeHtmlTableForResources = function(resources) {
     var maxColumns = 2;
@@ -91,7 +87,7 @@ function DMMaster(grammer) {
   makeHtmlListForResource = function(resource) {
     var html = resource.title;
     html = html.concat("<ul>");
-    
+
     for (var indexLink = 0; indexLink < resource.links.length; indexLink++) {
       var linkTitle = resource.links[indexLink].text;
       var linkUrl = resource.links[indexLink].href;
