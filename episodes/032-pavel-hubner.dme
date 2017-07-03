@@ -1,8 +1,37 @@
 dm-id:          32
-dm-name:        
-dm-date:        
-dm-mp3:         
-dm-soundcloud:  
+dm-name:        Pavel Hübner o BigClown
+dm-date:        03. 07. 2017
+dm-mp3:         http://feeds.soundcloud.com/stream/331331807-devminutes-32-bigclown.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/32-bigclown
+
+dm-resources:
+dm-resource: Pavel Hübner
+Twitter||https://twitter.com/pavelhubner
+GitHub||https://github.com/hubpav
+LinkedIn||https://www.linkedin.com/in/pavel-hubner
+
+dm-resource: BigClown
+Web||https://www.bigclown.com
+Facebook||https://www.facebook.com/bigclownlabs
+Twitter||https://twitter.com/bigclownlabs
+GitHub||https://github.com/bigclownlabs
+
+dm-resource: hardwar.io
+Web||http://www.hardwar.io
+
+dm-resource: Sigfox
+MySigfox||https://www.mysigfox.com
+
+dm-resource: HWDEV Podcast
+Web||http://podcast.bigclown.cz
+Twitter||https://twitter.com/HWDEVPodcast
+SoundClound||https://soundcloud.com/hwdevpodcast
+
+dm-resource: Ostatní
+Turris Omnia||https://omnia.turris.cz
+MQTT||http://mqtt.org
+Blynk||http://www.blynk.cc
+Node-RED||http://nodered.org
 
 dm-description:
 Tentokrát jsme vyrazili mimo Prahu do Jablonce a zavítali jsme do startupu BigClown. 
